@@ -1,0 +1,3 @@
+[submodule "creating-ci-tests-with-the-checks-api"]
+	path = creating-ci-tests-with-the-checks-api
+	url = https://github.com/zhangliwen/creating-ci-tests-with-the-checks-api

@@ -1,6 +1,6 @@
-[submodule "creating-ci-tests-with-the-checks-api"]
-	path = creating
-	url = https://github.com/zhangliwen/creating-ci-tests-with-the-checks-api
 [submodule "blog"]
 	path = blog
 	url = https://github.com/zhangliwen/blog
+[submodule "creating"]
+	path = creating
+	url = https://github.com/zhangliwen/creating-ci-tests-with-the-checks-api
